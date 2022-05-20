@@ -12,7 +12,23 @@
   <img src="https://komarev.com/ghpvc/?username=domwest&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">
+<div id="header" align="center">
   Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</div>
+
+___
+
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
+</div>
+
+___
+
+I am a DPhil Candidate at the University of Oxford <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> originally from South Africa.
+
+- :telescope: I'm currently working on computational approaches to investigate the genetics of Hypertrophic cardiomyopathy (a heart condition)
+
+- :seedling: Exploring computational structural bioinformatics
+
+- :zap: In my free time, I write other academically-unrelated code to spice up my day
